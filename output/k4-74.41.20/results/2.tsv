@@ -1,0 +1,262 @@
+ID	genus (exp.)	section (exp.)	species (exp.)	genus (class.)	section (class.)	species (class.)	Match
+1024	Paphiopedilum	Cochlopetalum	liemianum	Paphiopedilum	Cochlopetalum	liemianum	+
+1025	Paphiopedilum	Cochlopetalum	liemianum	Paphiopedilum	Cochlopetalum	liemianum	+
+1026	Paphiopedilum	Cochlopetalum	liemianum			glaucophyllum, liemianum	-
+3	Cypripedium	Flabellinervia	formosanum		Flabellinervia	japonicum	-
+1028	Paphiopedilum	Cochlopetalum	liemianum	Paphiopedilum			-
+9	Cypripedium	Flabellinervia	japonicum		Flabellinervia, Arietinum	japonicum	-
+10	Cypripedium	Flabellinervia	japonicum	Paphiopedilum	Cypripedium	japonicum	-
+523	Paphiopedilum	Barbata	wardii	Paphiopedilum	Barbata		-
+524	Paphiopedilum	Barbata	wardii	Paphiopedilum		wardii	-
+525	Paphiopedilum	Barbata	wardii	Paphiopedilum			-
+526	Paphiopedilum	Barbata	wardii	Paphiopedilum	Barbata	wardii	+
+16	Cypripedium	Bifolia	guttatum	Mexipedium, Paphiopedilum	Bifolia	guttatum	-
+1027	Paphiopedilum	Cochlopetalum	liemianum	Paphiopedilum	Cochlopetalum	liemianum, glaucophyllum	+
+1047	Phragmipedium	Micropetalum	besseae	Cypripedium, Phragmipedium	Micropetalum	besseae	+
+1048	Phragmipedium	Micropetalum	besseae	Cypripedium, Phragmipedium	Micropetalum	besseae	+
+1049	Phragmipedium	Micropetalum	besseae	Cypripedium	Micropetalum	besseae, fischeri	-
+28	Cypripedium	Cypripedium	calcicola	Phragmipedium	Cypripedium	calcicola	-
+29	Cypripedium	Cypripedium	calcicola	Paphiopedilum		shanxiense	-
+1056	Phragmipedium	Micropetalum	fischeri	Paphiopedilum, Phragmipedium		fischeri	-
+34	Cypripedium	Cypripedium	parviflorum			calcicola	-
+38	Cypripedium	Cypripedium	farreri	Paphiopedilum		farreri, shanxiense	-
+552	Paphiopedilum	Parvisepalum	micranthum	Cypripedium	Parvisepalum, Coryopedilum	micranthum	-
+553	Paphiopedilum	Parvisepalum	micranthum	Paphiopedilum		micranthum	-
+554	Paphiopedilum	Parvisepalum	micranthum	Paphiopedilum	Parvisepalum	micranthum	+
+555	Paphiopedilum	Parvisepalum	micranthum	Phragmipedium, Cypripedium	Parvisepalum	micranthum	-
+556	Paphiopedilum	Parvisepalum	micranthum	Mexipedium		micranthum	-
+557	Paphiopedilum	Parvisepalum	micranthum	Paphiopedilum	Parvisepalum	micranthum	+
+558	Paphiopedilum	Parvisepalum	micranthum	Paphiopedilum	Parvisepalum	micranthum	+
+559	Paphiopedilum	Parvisepalum	micranthum	Paphiopedilum	Parvisepalum	micranthum	+
+560	Paphiopedilum	Parvisepalum	micranthum	Paphiopedilum		micranthum, malipoense	-
+561	Paphiopedilum	Parvisepalum	micranthum	Paphiopedilum	Parvisepalum	micranthum	+
+50	Cypripedium	Cypripedium	tibeticum	Cypripedium		tibeticum	-
+51	Cypripedium	Cypripedium	tibeticum	Cypripedium		tibeticum	-
+52	Cypripedium	Cypripedium	tibeticum	Paphiopedilum		calcicola	-
+53	Cypripedium	Cypripedium	tibeticum	Paphiopedilum			-
+54	Cypripedium	Cypripedium	tibeticum	Paphiopedilum			-
+1080	Phragmipedium	Lorifolia	pearcei		Lorifolia	pearcei	-
+1081	Phragmipedium	Lorifolia	pearcei	Paphiopedilum	Lorifolia	pearcei	-
+522	Paphiopedilum	Barbata	wardii	Cypripedium	Paphiopedilum	wardii	-
+64	Cypripedium	Cypripedium	shanxiense	Paphiopedilum		calcicola	-
+65	Cypripedium	Cypripedium	shanxiense	Cypripedium	Cypripedium		-
+1091	Phragmipedium	Lorifolia	longifolium	Paphiopedilum		longifolium	-
+1092	Phragmipedium	Lorifolia	longifolium		Lorifolia	longifolium	-
+585	Paphiopedilum	Parvisepalum	armeniacum	Paphiopedilum	Parvisepalum	armeniacum	+
+586	Paphiopedilum	Parvisepalum	armeniacum	Paphiopedilum		armeniacum	-
+587	Paphiopedilum	Parvisepalum	armeniacum	Cypripedium	Parvisepalum	armeniacum	-
+588	Paphiopedilum	Parvisepalum	armeniacum	Paphiopedilum	Parvisepalum, Paphiopedilum	armeniacum	+
+589	Paphiopedilum	Parvisepalum	armeniacum		Parvisepalum, Paphiopedilum	armeniacum	-
+590	Paphiopedilum	Parvisepalum	armeniacum	Paphiopedilum	Parvisepalum	armeniacum	+
+591	Paphiopedilum	Parvisepalum	armeniacum		Parvisepalum	armeniacum	-
+81	Cypripedium	Obtusipetala	flavum	Paphiopedilum	Obtusipetala	flavum	-
+82	Cypripedium	Obtusipetala	flavum	Paphiopedilum		flavum	-
+83	Cypripedium	Obtusipetala	flavum		Obtusipetala, Trigonopedia	flavum	-
+84	Cypripedium	Obtusipetala	flavum	Cypripedium	Obtusipetala	flavum	+
+85	Cypripedium	Obtusipetala	flavum	Paphiopedilum	Obtusipetala, Trigonopedia	flavum	-
+1110	Phragmipedium	Phragmipedium	ritchteri	Paphiopedilum	Lorifolia	ritchteri	-
+1111	Phragmipedium	Phragmipedium	ritchteri	Paphiopedilum	Phragmipedium	ritchteri	-
+602	Paphiopedilum	Parvisepalum	vietnamense	Paphiopedilum	Parvisepalum	vietnamense	+
+603	Paphiopedilum	Parvisepalum	vietnamense	Paphiopedilum			-
+92	Cypripedium	Arietinum	plectrochilum	Paphiopedilum	Obtusipetala	plectrochilum	-
+99	Cypripedium	Acaulia	acaule	Cypripedium		acaule	-
+613	Paphiopedilum	Parvisepalum	delenatii	Paphiopedilum	Parvisepalum	delenatii	+
+614	Paphiopedilum	Parvisepalum	delenatii	Paphiopedilum	Parvisepalum		-
+615	Paphiopedilum	Parvisepalum	delenatii	Paphiopedilum	Barbata	delenatii	-
+107	Cypripedium	Trigonopedia	sichuanense	Paphiopedilum		sichuanense	-
+108	Cypripedium	Trigonopedia	sichuanense	Paphiopedilum		sichuanense	-
+109	Cypripedium	Trigonopedia	sichuanense		Cypripedium	fargesii	-
+117	Cypripedium	Trigonopedia	fargesii	Paphiopedilum	Trigonopedia	fargesii	-
+118	Cypripedium	Trigonopedia	fargesii	Paphiopedilum	Acaulia	fargesii	-
+1102	Phragmipedium	Phragmipedium	warscewiczianum	Paphiopedilum	Phragmipedium	warscewiczianum	-
+788	Paphiopedilum	Paphiopedilum	henryanum	Paphiopedilum	Paphiopedilum	henryanum	+
+634	Paphiopedilum	Parvisepalum	malipoense	Paphiopedilum	Parvisepalum	malipoense	+
+635	Paphiopedilum	Parvisepalum	malipoense	Paphiopedilum	Barbata	malipoense	-
+124	Cypripedium	Macrantha	franchetii	Paphiopedilum	Cypripedium	franchetii	-
+637	Paphiopedilum	Parvisepalum	malipoense	Paphiopedilum	Parvisepalum	malipoense	+
+638	Paphiopedilum	Parvisepalum	malipoense	Paphiopedilum	Parvisepalum	malipoense	+
+639	Paphiopedilum	Parvisepalum	malipoense	Paphiopedilum	Parvisepalum, Barbata		-
+640	Paphiopedilum	Parvisepalum	malipoense	Paphiopedilum		malipoense	-
+961	Paphiopedilum	Pardalopetalum	lowii	Paphiopedilum	Barbata	lowii	-
+136	Cypripedium	Sinopedilum	bardolphianum	Cypripedium	Obtusipetala, Sinopedilum	bardolphianum	+
+137	Cypripedium	Sinopedilum	bardolphianum	Paphiopedilum		bardolphianum	-
+138	Cypripedium	Sinopedilum	bardolphianum	Paphiopedilum	Cypripedium	bardolphianum	-
+962	Paphiopedilum	Pardalopetalum	lowii	Paphiopedilum	Barbata		-
+144	Mexipedium	Mexipedium	xerophyticum	Paphiopedilum	Mexipedium	xerophyticum	-
+658	Paphiopedilum	Parvisepalum	emersonii	Phragmipedium	Parvisepalum	emersonii	-
+659	Paphiopedilum	Parvisepalum	emersonii	Paphiopedilum	Parvisepalum, Brachypetalum	emersonii	+
+660	Paphiopedilum	Parvisepalum	emersonii	Paphiopedilum	Brachypetalum	emersonii	-
+661	Paphiopedilum	Parvisepalum	emersonii	Paphiopedilum	Parvisepalum		-
+662	Paphiopedilum	Parvisepalum	emersonii	Paphiopedilum	Barbata	malipoense	-
+152	Paphiopedilum	Coryopedilum	adductum	Paphiopedilum	Barbata	rothschildianum	-
+153	Paphiopedilum	Coryopedilum	adductum			philippinense	-
+162	Paphiopedilum	Coryopedilum	rothschildianum	Phragmipedium	Pardalopetalum		-
+163	Paphiopedilum	Coryopedilum	rothschildianum	Paphiopedilum	Coryopedilum		-
+164	Paphiopedilum	Coryopedilum	rothschildianum		Barbata		-
+677	Paphiopedilum	Paphiopedilum	insigne	Paphiopedilum			-
+678	Paphiopedilum	Paphiopedilum	insigne	Paphiopedilum	Barbata		-
+679	Paphiopedilum	Paphiopedilum	insigne	Paphiopedilum	Paphiopedilum	insigne	+
+175	Paphiopedilum	Coryopedilum	randsii	Paphiopedilum	Pardalopetalum	randsii	-
+692	Paphiopedilum	Paphiopedilum	fairrieanum	Paphiopedilum	Pardalopetalum		-
+693	Paphiopedilum	Paphiopedilum	fairrieanum	Cypripedium	Parvisepalum, Paphiopedilum	fairrieanum	-
+694	Paphiopedilum	Paphiopedilum	fairrieanum	Paphiopedilum	Paphiopedilum	fairrieanum	+
+183	Paphiopedilum	Coryopedilum	philippinense	Paphiopedilum		philippinense	-
+184	Paphiopedilum	Coryopedilum	philippinense	Phragmipedium	Barbata		-
+799	Paphiopedilum	Paphiopedilum	gratrixianum	Paphiopedilum	Paphiopedilum	barbigerum	-
+190	Paphiopedilum	Coryopedilum	wilhelminiae	Paphiopedilum, Cypripedium	Pardalopetalum	stonei, adductum	-
+978	Paphiopedilum	Cochlopetalum	primulinum	Paphiopedilum	Cochlopetalum	primulinum	+
+800	Paphiopedilum	Paphiopedilum	gratrixianum	Paphiopedilum	Paphiopedilum		-
+196	Paphiopedilum	Coryopedilum	stonei	Paphiopedilum	Barbata	rothschildianum	-
+709	Paphiopedilum	Paphiopedilum	villosum	Paphiopedilum	Paphiopedilum		-
+710	Paphiopedilum	Paphiopedilum	villosum	Paphiopedilum	Paphiopedilum	villosum	+
+711	Paphiopedilum	Paphiopedilum	villosum	Paphiopedilum	Paphiopedilum		-
+712	Paphiopedilum	Paphiopedilum	villosum	Paphiopedilum			-
+202	Paphiopedilum	Coryopedilum	glanduliferum	Paphiopedilum	Barbata	wilhelminiae	-
+203	Paphiopedilum	Coryopedilum	glanduliferum	Paphiopedilum	Barbata		-
+211	Paphiopedilum	Barbata	mastersianum	Paphiopedilum	Barbata	mastersianum, venustum, schoseri	+
+212	Paphiopedilum	Barbata	mastersianum	Paphiopedilum	Cochlopetalum	mastersianum	-
+725	Paphiopedilum	Paphiopedilum	tigrinum	Paphiopedilum	Barbata	tigrinum	-
+726	Paphiopedilum	Paphiopedilum	tigrinum	Paphiopedilum	Paphiopedilum	tigrinum	+
+727	Paphiopedilum	Paphiopedilum	tigrinum	Phragmipedium		hirsutissimum	-
+996	Paphiopedilum	Cochlopetalum	glaucophyllum	Paphiopedilum	Paphiopedilum		-
+224	Paphiopedilum	Barbata	barbatum	Paphiopedilum	Barbata		-
+225	Paphiopedilum	Barbata	barbatum	Paphiopedilum	Paphiopedilum	barbatum	-
+226	Paphiopedilum	Barbata	barbatum	Paphiopedilum		superbiens	-
+227	Paphiopedilum	Barbata	barbatum	Paphiopedilum	Pardalopetalum	barbatum	-
+741	Paphiopedilum	Paphiopedilum	spicerianum	Paphiopedilum	Barbata		-
+742	Paphiopedilum	Paphiopedilum	spicerianum	Paphiopedilum	Barbata	helenae	-
+743	Paphiopedilum	Paphiopedilum	spicerianum	Cypripedium	Paphiopedilum	charlesworthii	-
+744	Paphiopedilum	Paphiopedilum	spicerianum	Paphiopedilum	Paphiopedilum		-
+636	Paphiopedilum	Parvisepalum	malipoense	Paphiopedilum	Parvisepalum	malipoense	+
+236	Paphiopedilum	Barbata	sangii	Paphiopedilum	Barbata	sangii	+
+237	Paphiopedilum	Barbata	sangii	Paphiopedilum	Barbata	sangii	+
+758	Paphiopedilum	Paphiopedilum	helenae	Paphiopedilum	Barbata	hirsutissimum	-
+759	Paphiopedilum	Paphiopedilum	helenae	Cypripedium	Paphiopedilum	helenae	-
+248	Paphiopedilum	Barbata	violascens	Paphiopedilum	Barbata	acmodontum, violascens	+
+249	Paphiopedilum	Barbata	violascens	Paphiopedilum	Barbata		-
+250	Paphiopedilum	Barbata	violascens	Paphiopedilum		acmodontum, callosum	-
+251	Paphiopedilum	Barbata	violascens	Paphiopedilum	Barbata	violascens	+
+963	Paphiopedilum	Pardalopetalum	lowii	Paphiopedilum	Paphiopedilum	lowii	-
+771	Paphiopedilum	Paphiopedilum	druryi	Paphiopedilum		druryi	-
+772	Paphiopedilum	Paphiopedilum	druryi	Paphiopedilum		spicerianum	-
+773	Paphiopedilum	Paphiopedilum	druryi	Paphiopedilum			-
+265	Paphiopedilum	Barbata	tonsum	Paphiopedilum	Barbata		-
+266	Paphiopedilum	Barbata	tonsum	Paphiopedilum	Barbata		-
+267	Paphiopedilum	Barbata	tonsum	Paphiopedilum	Barbata		-
+268	Paphiopedilum	Barbata	tonsum	Paphiopedilum	Barbata	tonsum	+
+1069	Phragmipedium	Micropetalum	schlimii	Phragmipedium	Micropetalum	fischeri	-
+785	Paphiopedilum	Paphiopedilum	henryanum			henryanum, exul	-
+786	Paphiopedilum	Paphiopedilum	henryanum	Paphiopedilum	Paphiopedilum		-
+787	Paphiopedilum	Paphiopedilum	henryanum	Paphiopedilum	Paphiopedilum	henryanum	+
+708	Paphiopedilum	Paphiopedilum	villosum	Paphiopedilum	Paphiopedilum	gratrixianum	-
+277	Paphiopedilum	Barbata	appletonianum				-
+278	Paphiopedilum	Barbata	appletonianum	Paphiopedilum			-
+1071	Phragmipedium	Micropetalum	schlimii	Phragmipedium	Micropetalum	schlimii	+
+286	Paphiopedilum	Barbata	bullenianum	Paphiopedilum		bullenianum	-
+287	Paphiopedilum	Barbata	bullenianum	Paphiopedilum		sukhakulii, bullenianum	-
+288	Paphiopedilum	Barbata	bullenianum	Paphiopedilum	Barbata		-
+902	Paphiopedilum	Brachypetalum	niveum	Paphiopedilum	Brachypetalum, Parvisepalum	niveum	+
+296	Paphiopedilum	Barbata	papuanum	Paphiopedilum	Barbata	urbanianum	-
+297	Paphiopedilum	Barbata	papuanum	Paphiopedilum	Barbata		-
+810	Paphiopedilum	Paphiopedilum	charlesworthii	Cypripedium	Paphiopedilum	charlesworthii	-
+809	Paphiopedilum	Paphiopedilum	charlesworthii	Paphiopedilum	Paphiopedilum	barbigerum, gratrixianum	-
+760	Paphiopedilum	Paphiopedilum	helenae	Paphiopedilum	Paphiopedilum	helenae	+
+820	Paphiopedilum	Paphiopedilum	barbigerum	Paphiopedilum	Paphiopedilum		-
+821	Paphiopedilum	Paphiopedilum	barbigerum	Paphiopedilum	Paphiopedilum	barbigerum	+
+310	Paphiopedilum	Barbata	urbanianum	Paphiopedilum	Barbata		-
+311	Paphiopedilum	Barbata	urbanianum	Paphiopedilum	Barbata	urbanianum, argus	+
+312	Paphiopedilum	Barbata	urbanianum	Paphiopedilum		urbanianum	-
+313	Paphiopedilum	Barbata	urbanianum	Paphiopedilum	Barbata		-
+314	Paphiopedilum	Barbata	urbanianum		Barbata		-
+834	Paphiopedilum	Paphiopedilum	exul	Paphiopedilum	Barbata		-
+835	Paphiopedilum	Paphiopedilum	exul	Paphiopedilum	Paphiopedilum	insigne	-
+836	Paphiopedilum	Paphiopedilum	exul	Paphiopedilum	Paphiopedilum	insigne	-
+822	Paphiopedilum	Paphiopedilum	barbigerum	Cypripedium	Paphiopedilum		-
+330	Paphiopedilum	Barbata	sukhakulii	Paphiopedilum			-
+331	Paphiopedilum	Barbata	sukhakulii	Paphiopedilum	Barbata	sukhakulii, javanicum	+
+332	Paphiopedilum	Barbata	sukhakulii	Paphiopedilum	Brachypetalum	argus, bullenianum, sukhakulii, hookerae	-
+333	Paphiopedilum	Barbata	sukhakulii	Paphiopedilum			-
+334	Paphiopedilum	Barbata	sukhakulii	Paphiopedilum			-
+1068	Phragmipedium	Micropetalum	schlimii	Paphiopedilum	Micropetalum	fischeri	-
+849	Paphiopedilum	Paphiopedilum	hirsutissimum	Paphiopedilum	Paphiopedilum	hirsutissimum	+
+850	Paphiopedilum	Paphiopedilum	hirsutissimum	Paphiopedilum	Barbata	tigrinum, gratrixianum	-
+851	Paphiopedilum	Paphiopedilum	hirsutissimum	Paphiopedilum	Barbata	hirsutissimum	-
+345	Paphiopedilum	Barbata	fowliei	Paphiopedilum	Barbata		-
+346	Paphiopedilum	Barbata	fowliei	Paphiopedilum	Paphiopedilum	callosum	-
+347	Paphiopedilum	Barbata	fowliei	Paphiopedilum			-
+997	Paphiopedilum	Cochlopetalum	glaucophyllum	Paphiopedilum		primulinum	-
+354	Paphiopedilum	Barbata	ciliolare	Paphiopedilum	Barbata		-
+355	Paphiopedilum	Barbata	ciliolare	Phragmipedium, Cypripedium	Barbata	hennisianum, barbatum	-
+868	Paphiopedilum	Brachypetalum	concolor	Paphiopedilum		concolor	-
+876	Paphiopedilum	Brachypetalum	thaianum	Paphiopedilum	Parvisepalum	niveum, bellatulum	-
+365	Paphiopedilum	Barbata	callosum	Paphiopedilum	Paphiopedilum		-
+366	Paphiopedilum	Barbata	callosum	Paphiopedilum			-
+367	Paphiopedilum	Barbata	callosum	Paphiopedilum	Barbata		-
+368	Paphiopedilum	Barbata	callosum	Paphiopedilum	Paphiopedilum	callosum, lawrenceanum	-
+884	Paphiopedilum	Brachypetalum	bellatulum	Paphiopedilum	Brachypetalum	bellatulum	+
+885	Paphiopedilum	Brachypetalum	bellatulum	Paphiopedilum	Brachypetalum	bellatulum	+
+745	Paphiopedilum	Paphiopedilum	spicerianum	Paphiopedilum	Barbata, Coryopedilum		-
+379	Paphiopedilum	Barbata	venustum	Paphiopedilum	Paphiopedilum	schoseri, lawrenceanum	-
+380	Paphiopedilum	Barbata	venustum	Paphiopedilum	Barbata	urbanianum	-
+898	Paphiopedilum	Brachypetalum	niveum	Paphiopedilum			-
+899	Paphiopedilum	Brachypetalum	niveum	Paphiopedilum	Brachypetalum		-
+900	Paphiopedilum	Brachypetalum	niveum	Paphiopedilum	Brachypetalum	niveum, bellatulum	+
+389	Paphiopedilum	Barbata	argus	Paphiopedilum	Barbata	wardii	-
+390	Paphiopedilum	Barbata	argus	Paphiopedilum	Barbata	wardii	-
+391	Paphiopedilum	Barbata	argus	Paphiopedilum	Brachypetalum, Barbata	bullenianum	-
+1070	Phragmipedium	Micropetalum	schlimii	Phragmipedium, Paphiopedilum	Micropetalum	schlimii	+
+1036	Selenipedium	Selenipedium	palmifolium	Paphiopedilum	Selenipedium	palmifolium	-
+399	Paphiopedilum	Barbata	boungainvilleanum	Paphiopedilum	Barbata		-
+400	Paphiopedilum	Barbata	boungainvilleanum	Paphiopedilum	Coryopedilum, Barbata	boungainvilleanum, argus	+
+914	Paphiopedilum	Brachypetalum	godefroyae	Paphiopedilum	Brachypetalum	niveum	-
+915	Paphiopedilum	Brachypetalum	godefroyae	Mexipedium, Cypripedium	Brachypetalum	concolor	-
+916	Paphiopedilum	Brachypetalum	godefroyae	Paphiopedilum	Parvisepalum	godefroyae	-
+409	Paphiopedilum	Barbata	dayanum	Paphiopedilum	Barbata		-
+410	Paphiopedilum	Barbata	dayanum		Barbata, Brachypetalum		-
+411	Paphiopedilum	Barbata	dayanum	Paphiopedilum	Pardalopetalum	acmodontum, purpuratum, schoseri	-
+866	Paphiopedilum	Brachypetalum	concolor	Cypripedium	Brachypetalum	concolor	-
+926	Paphiopedilum	Pardalopetalum	dianthum	Paphiopedilum		lowii	-
+837	Paphiopedilum	Paphiopedilum	exul	Paphiopedilum	Barbata	exul	-
+798	Paphiopedilum	Paphiopedilum	gratrixianum	Paphiopedilum	Paphiopedilum	gratrixianum	+
+420	Paphiopedilum	Barbata	lawrenceanum	Paphiopedilum	Barbata		-
+421	Paphiopedilum	Barbata	lawrenceanum	Paphiopedilum	Barbata		-
+422	Paphiopedilum	Barbata	lawrenceanum	Paphiopedilum	Barbata	lawrenceanum, fowliei	+
+428	Paphiopedilum	Barbata	wentworthianum	Paphiopedilum	Barbata		-
+925	Paphiopedilum	Pardalopetalum	dianthum	Paphiopedilum	Barbata	haynaldianum	-
+944	Paphiopedilum	Pardalopetalum	haynaldianum	Paphiopedilum			-
+945	Paphiopedilum	Pardalopetalum	haynaldianum	Paphiopedilum	Barbata	haynaldianum, lowii	-
+946	Paphiopedilum	Pardalopetalum	haynaldianum	Paphiopedilum	Paphiopedilum	lowii	-
+436	Paphiopedilum	Barbata	hookerae	Paphiopedilum		hookerae, fowliei	-
+437	Paphiopedilum	Barbata	hookerae	Paphiopedilum	Barbata		-
+438	Paphiopedilum	Barbata	hookerae	Paphiopedilum	Barbata	hookerae, urbanianum	+
+901	Paphiopedilum	Brachypetalum	niveum	Paphiopedilum		godefroyae	-
+867	Paphiopedilum	Brachypetalum	concolor	Paphiopedilum		concolor	-
+960	Paphiopedilum	Pardalopetalum	lowii	Phragmipedium	Coryopedilum	lowii	-
+449	Paphiopedilum	Barbata	superbiens			superbiens	-
+450	Paphiopedilum	Barbata	superbiens	Paphiopedilum	Pardalopetalum	superbiens	-
+451	Paphiopedilum	Barbata	superbiens	Cypripedium	Pardalopetalum	boungainvilleanum, hennisianum	-
+463	Paphiopedilum	Barbata	purpuratum	Paphiopedilum	Barbata	purpuratum	+
+464	Paphiopedilum	Barbata	purpuratum	Paphiopedilum	Barbata	ciliolare, barbatum, argus, acmodontum, purpuratum, superbiens	+
+465	Paphiopedilum	Barbata	purpuratum	Paphiopedilum	Barbata	purpuratum	+
+466	Paphiopedilum	Barbata	purpuratum			acmodontum, bullenianum, sangii, wentworthianum	-
+979	Paphiopedilum	Cochlopetalum	primulinum			primulinum	-
+980	Paphiopedilum	Cochlopetalum	primulinum	Paphiopedilum	Cochlopetalum	primulinum	+
+981	Paphiopedilum	Cochlopetalum	primulinum	Paphiopedilum	Coryopedilum, Cochlopetalum	liemianum	-
+982	Paphiopedilum	Cochlopetalum	primulinum		Paphiopedilum	primulinum, victoria-regina	-
+676	Paphiopedilum	Paphiopedilum	insigne	Paphiopedilum	Paphiopedilum, Barbata		-
+476	Paphiopedilum	Barbata	schoseri	Paphiopedilum	Barbata		-
+477	Paphiopedilum	Barbata	schoseri	Paphiopedilum	Barbata	schoseri	+
+933	Paphiopedilum	Pardalopetalum	parishii	Paphiopedilum		parishii	-
+995	Paphiopedilum	Cochlopetalum	glaucophyllum		Cochlopetalum	liemianum	-
+484	Paphiopedilum	Barbata	javanicum	Paphiopedilum	Pardalopetalum	sukhakulii	-
+934	Paphiopedilum	Pardalopetalum	parishii	Paphiopedilum	Barbata		-
+998	Paphiopedilum	Cochlopetalum	glaucophyllum	Paphiopedilum	Cochlopetalum	glaucophyllum	+
+492	Paphiopedilum	Barbata	acmodontum	Paphiopedilum	Coryopedilum	acmodontum	-
+493	Paphiopedilum	Barbata	acmodontum	Paphiopedilum	Barbata	venustum	-
+494	Paphiopedilum	Barbata	acmodontum	Paphiopedilum	Barbata		-
+1010	Paphiopedilum	Cochlopetalum	victoria-regina	Paphiopedilum	Paphiopedilum	victoria-regina	-
+1011	Paphiopedilum	Cochlopetalum	victoria-regina		Cochlopetalum		-
+505	Paphiopedilum	Barbata	hennisianum	Paphiopedilum	Barbata, Paphiopedilum	lawrenceanum	-
+506	Paphiopedilum	Barbata	hennisianum	Paphiopedilum	Paphiopedilum	hennisianum	-
+507	Paphiopedilum	Barbata	hennisianum	Paphiopedilum	Barbata		-
+508	Paphiopedilum	Barbata	hennisianum	Paphiopedilum	Barbata		-

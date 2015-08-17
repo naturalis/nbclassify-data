@@ -1,0 +1,570 @@
+genus=Paphiopedilum
+overall: 84.60%
+
+section=Barbata
+overall: 58.65%
+genus=Paphiopedilum section=Barbata
+overall: 54.57%
+
+species=wardii
+overall: 30.00%
+genus=Paphiopedilum section=Barbata species=wardii
+overall: 15.00%
+
+species=mastersianum
+overall: 33.33%
+genus=Paphiopedilum section=Barbata species=mastersianum
+overall: 12.50%
+
+species=barbatum
+overall: 33.75%
+genus=Paphiopedilum section=Barbata species=barbatum
+overall: 10.00%
+
+species=sangii
+overall: 50.00%
+genus=Paphiopedilum section=Barbata species=sangii
+overall: 37.50%
+
+species=violascens
+overall: 60.42%
+genus=Paphiopedilum section=Barbata species=violascens
+overall: 39.58%
+
+species=tonsum
+overall: 26.25%
+genus=Paphiopedilum section=Barbata species=tonsum
+overall: 16.25%
+
+species=appletonianum
+overall: 0.00%
+genus=Paphiopedilum section=Barbata species=appletonianum
+overall: 0.00%
+
+species=bullenianum
+overall: 41.67%
+genus=Paphiopedilum section=Barbata species=bullenianum
+overall: 8.33%
+
+species=papuanum
+overall: 12.50%
+genus=Paphiopedilum section=Barbata species=papuanum
+overall: 12.50%
+
+species=urbanianum
+overall: 25.00%
+genus=Paphiopedilum section=Barbata species=urbanianum
+overall: 5.00%
+
+species=sukhakulii
+overall: 31.25%
+genus=Paphiopedilum section=Barbata species=sukhakulii
+overall: 15.00%
+
+species=fowliei
+overall: 16.67%
+genus=Paphiopedilum section=Barbata species=fowliei
+overall: 16.67%
+
+species=ciliolare
+overall: 12.50%
+genus=Paphiopedilum section=Barbata species=ciliolare
+overall: 12.50%
+
+species=callosum
+overall: 37.50%
+genus=Paphiopedilum section=Barbata species=callosum
+overall: 18.75%
+
+species=venustum
+overall: 25.00%
+genus=Paphiopedilum section=Barbata species=venustum
+overall: 25.00%
+
+species=argus
+overall: 0.00%
+genus=Paphiopedilum section=Barbata species=argus
+overall: 0.00%
+
+species=boungainvilleanum
+overall: 12.50%
+genus=Paphiopedilum section=Barbata species=boungainvilleanum
+overall: 12.50%
+
+species=dayanum
+overall: 45.83%
+genus=Paphiopedilum section=Barbata species=dayanum
+overall: 25.00%
+
+species=lawrenceanum
+overall: 33.33%
+genus=Paphiopedilum section=Barbata species=lawrenceanum
+overall: 33.33%
+
+species=wentworthianum
+overall: 25.00%
+genus=Paphiopedilum section=Barbata species=wentworthianum
+overall: 25.00%
+
+species=hookerae
+overall: 41.67%
+genus=Paphiopedilum section=Barbata species=hookerae
+overall: 25.00%
+
+species=superbiens
+overall: 25.00%
+genus=Paphiopedilum section=Barbata species=superbiens
+overall: 0.00%
+
+species=purpuratum
+overall: 37.50%
+genus=Paphiopedilum section=Barbata species=purpuratum
+overall: 37.50%
+
+species=schoseri
+overall: 12.50%
+genus=Paphiopedilum section=Barbata species=schoseri
+overall: 12.50%
+
+species=javanicum
+overall: 0.00%
+genus=Paphiopedilum section=Barbata species=javanicum
+overall: 0.00%
+
+species=acmodontum
+overall: 29.17%
+genus=Paphiopedilum section=Barbata species=acmodontum
+overall: 8.33%
+
+species=hennisianum
+overall: 31.25%
+genus=Paphiopedilum section=Barbata species=hennisianum
+overall: 8.33%
+
+section=Paphiopedilum
+overall: 57.30%
+genus=Paphiopedilum section=Paphiopedilum
+overall: 46.91%
+
+species=fairrieanum
+overall: 62.50%
+genus=Paphiopedilum section=Paphiopedilum species=fairrieanum
+overall: 22.92%
+
+species=villosum
+overall: 35.00%
+genus=Paphiopedilum section=Paphiopedilum species=villosum
+overall: 25.00%
+
+species=charlesworthii
+overall: 50.00%
+genus=Paphiopedilum section=Paphiopedilum species=charlesworthii
+overall: 29.17%
+
+species=insigne
+overall: 25.00%
+genus=Paphiopedilum section=Paphiopedilum species=insigne
+overall: 25.00%
+
+species=gratrixianum
+overall: 16.67%
+genus=Paphiopedilum section=Paphiopedilum species=gratrixianum
+overall: 16.67%
+
+species=hirsutissimum
+overall: 52.08%
+genus=Paphiopedilum section=Paphiopedilum species=hirsutissimum
+overall: 8.33%
+
+species=tigrinum
+overall: 47.92%
+genus=Paphiopedilum section=Paphiopedilum species=tigrinum
+overall: 25.00%
+
+species=spicerianum
+overall: 35.00%
+genus=Paphiopedilum section=Paphiopedilum species=spicerianum
+overall: 25.00%
+
+species=helenae
+overall: 83.33%
+genus=Paphiopedilum section=Paphiopedilum species=helenae
+overall: 52.08%
+
+species=druryi
+overall: 52.08%
+genus=Paphiopedilum section=Paphiopedilum species=druryi
+overall: 20.83%
+
+species=henryanum
+overall: 87.50%
+genus=Paphiopedilum section=Paphiopedilum species=henryanum
+overall: 27.08%
+
+species=barbigerum
+overall: 8.33%
+genus=Paphiopedilum section=Paphiopedilum species=barbigerum
+overall: 8.33%
+
+species=exul
+overall: 20.83%
+genus=Paphiopedilum section=Paphiopedilum species=exul
+overall: 8.33%
+
+section=Parvisepalum
+overall: 72.66%
+genus=Paphiopedilum section=Parvisepalum
+overall: 56.61%
+
+species=micranthum
+overall: 95.00%
+genus=Paphiopedilum section=Parvisepalum species=micranthum
+overall: 62.22%
+
+species=armeniacum
+overall: 92.86%
+genus=Paphiopedilum section=Parvisepalum species=armeniacum
+overall: 67.86%
+
+species=vietnamense
+overall: 87.50%
+genus=Paphiopedilum section=Parvisepalum species=vietnamense
+overall: 50.00%
+
+species=delenatii
+overall: 68.75%
+genus=Paphiopedilum section=Parvisepalum species=delenatii
+overall: 16.67%
+
+species=emersonii
+overall: 68.75%
+genus=Paphiopedilum section=Parvisepalum species=emersonii
+overall: 27.50%
+
+species=malipoense
+overall: 85.71%
+genus=Paphiopedilum section=Parvisepalum species=malipoense
+overall: 41.52%
+
+section=Brachypetalum
+overall: 58.67%
+genus=Paphiopedilum section=Brachypetalum
+overall: 50.85%
+
+species=bellatulum
+overall: 45.83%
+genus=Paphiopedilum section=Brachypetalum species=bellatulum
+overall: 37.50%
+
+species=thaianum
+overall: 12.50%
+genus=Paphiopedilum section=Brachypetalum species=thaianum
+overall: 0.00%
+
+species=godefroyae
+overall: 37.50%
+genus=Paphiopedilum section=Brachypetalum species=godefroyae
+overall: 29.17%
+
+species=concolor
+overall: 79.17%
+genus=Paphiopedilum section=Brachypetalum species=concolor
+overall: 18.75%
+
+species=niveum
+overall: 48.75%
+genus=Paphiopedilum section=Brachypetalum species=niveum
+overall: 42.50%
+
+section=Pardalopetalum
+overall: 30.71%
+genus=Paphiopedilum section=Pardalopetalum
+overall: 22.00%
+
+species=lowii
+overall: 42.50%
+genus=Paphiopedilum section=Pardalopetalum species=lowii
+overall: 11.25%
+
+species=parishii
+overall: 50.00%
+genus=Paphiopedilum section=Pardalopetalum species=parishii
+overall: 0.00%
+
+species=dianthum
+overall: 20.83%
+genus=Paphiopedilum section=Pardalopetalum species=dianthum
+overall: 0.00%
+
+species=haynaldianum
+overall: 31.25%
+genus=Paphiopedilum section=Pardalopetalum species=haynaldianum
+overall: 0.00%
+
+section=Coryopedilum
+overall: 10.34%
+genus=Paphiopedilum section=Coryopedilum
+overall: 5.21%
+
+species=adductum
+overall: 12.50%
+genus=Paphiopedilum section=Coryopedilum species=adductum
+overall: 0.00%
+
+species=rothschildianum
+overall: 33.33%
+genus=Paphiopedilum section=Coryopedilum species=rothschildianum
+overall: 0.00%
+
+species=randsii
+overall: 50.00%
+genus=Paphiopedilum section=Coryopedilum species=randsii
+overall: 12.50%
+
+species=philippinense
+overall: 29.17%
+genus=Paphiopedilum section=Coryopedilum species=philippinense
+overall: 0.00%
+
+species=wilhelminiae
+overall: 0.00%
+genus=Paphiopedilum section=Coryopedilum species=wilhelminiae
+overall: 0.00%
+
+species=stonei
+overall: 12.50%
+genus=Paphiopedilum section=Coryopedilum species=stonei
+overall: 0.00%
+
+species=glanduliferum
+overall: 0.00%
+genus=Paphiopedilum section=Coryopedilum species=glanduliferum
+overall: 0.00%
+
+section=Cochlopetalum
+overall: 49.58%
+genus=Paphiopedilum section=Cochlopetalum
+overall: 43.11%
+
+species=primulinum
+overall: 85.00%
+genus=Paphiopedilum section=Cochlopetalum species=primulinum
+overall: 42.50%
+
+species=liemianum
+overall: 45.00%
+genus=Paphiopedilum section=Cochlopetalum species=liemianum
+overall: 20.00%
+
+species=glaucophyllum
+overall: 20.83%
+genus=Paphiopedilum section=Cochlopetalum species=glaucophyllum
+overall: 14.58%
+
+species=victoria-regina
+overall: 12.50%
+genus=Paphiopedilum section=Cochlopetalum species=victoria-regina
+overall: 0.00%
+
+genus=Cypripedium
+overall: 33.54%
+
+section=Flabellinervia
+overall: 25.00%
+genus=Cypripedium section=Flabellinervia
+overall: 8.33%
+
+species=formosanum
+overall: 50.00%
+genus=Cypripedium section=Flabellinervia species=formosanum
+overall: 0.00%
+
+species=japonicum
+overall: 87.50%
+genus=Cypripedium section=Flabellinervia species=japonicum
+overall: 12.50%
+
+section=Bifolia
+overall: 50.00%
+genus=Cypripedium section=Bifolia
+overall: 12.50%
+
+species=guttatum
+overall: 100.00%
+genus=Cypripedium section=Bifolia species=guttatum
+overall: 12.50%
+
+section=Cypripedium
+overall: 36.74%
+genus=Cypripedium section=Cypripedium
+overall: 13.07%
+
+species=calcicola
+overall: 29.17%
+genus=Cypripedium section=Cypripedium species=calcicola
+overall: 0.00%
+
+species=parviflorum
+overall: 25.00%
+genus=Cypripedium section=Cypripedium species=parviflorum
+overall: 25.00%
+
+species=farreri
+overall: 50.00%
+genus=Cypripedium section=Cypripedium species=farreri
+overall: 0.00%
+
+species=tibeticum
+overall: 50.00%
+genus=Cypripedium section=Cypripedium species=tibeticum
+overall: 5.00%
+
+species=shanxiense
+overall: 25.00%
+genus=Cypripedium section=Cypripedium species=shanxiense
+overall: 0.00%
+
+section=Obtusipetala
+overall: 57.50%
+genus=Cypripedium section=Obtusipetala
+overall: 10.00%
+
+species=flavum
+overall: 100.00%
+genus=Cypripedium section=Obtusipetala species=flavum
+overall: 10.00%
+
+section=Arietinum
+overall: 0.00%
+genus=Cypripedium section=Arietinum
+overall: 0.00%
+
+species=plectrochilum
+overall: 100.00%
+genus=Cypripedium section=Arietinum species=plectrochilum
+overall: 0.00%
+
+section=Acaulia
+overall: 0.00%
+genus=Cypripedium section=Acaulia
+overall: 0.00%
+
+species=acaule
+overall: 100.00%
+genus=Cypripedium section=Acaulia species=acaule
+overall: 0.00%
+
+section=Trigonopedia
+overall: 37.08%
+genus=Cypripedium section=Trigonopedia
+overall: 16.67%
+
+species=sichuanense
+overall: 91.67%
+genus=Cypripedium section=Trigonopedia species=sichuanense
+overall: 20.83%
+
+species=fargesii
+overall: 75.00%
+genus=Cypripedium section=Trigonopedia species=fargesii
+overall: 12.50%
+
+section=Macrantha
+overall: 25.00%
+genus=Cypripedium section=Macrantha
+overall: 0.00%
+
+species=franchetii
+overall: 100.00%
+genus=Cypripedium section=Macrantha species=franchetii
+overall: 0.00%
+
+section=Sinopedilum
+overall: 20.83%
+genus=Cypripedium section=Sinopedilum
+overall: 14.58%
+
+species=bardolphianum
+overall: 100.00%
+genus=Cypripedium section=Sinopedilum species=bardolphianum
+overall: 14.58%
+
+genus=Selenipedium
+overall: 0.00%
+
+section=Selenipedium
+overall: 100.00%
+genus=Selenipedium section=Selenipedium
+overall: 0.00%
+
+species=palmifolium
+overall: 100.00%
+genus=Selenipedium section=Selenipedium species=palmifolium
+overall: 0.00%
+
+genus=Phragmipedium
+overall: 32.09%
+
+section=Micropetalum
+overall: 50.56%
+genus=Phragmipedium section=Micropetalum
+overall: 32.15%
+
+species=besseae
+overall: 91.67%
+genus=Phragmipedium section=Micropetalum species=besseae
+overall: 25.00%
+
+species=fischeri
+overall: 50.00%
+genus=Phragmipedium section=Micropetalum species=fischeri
+overall: 0.00%
+
+species=schlimii
+overall: 72.50%
+genus=Phragmipedium section=Micropetalum species=schlimii
+overall: 33.75%
+
+section=Lorifolia
+overall: 46.67%
+genus=Phragmipedium section=Lorifolia
+overall: 14.58%
+
+species=pearcei
+overall: 62.50%
+genus=Phragmipedium section=Lorifolia species=pearcei
+overall: 0.00%
+
+species=longifolium
+overall: 50.00%
+genus=Phragmipedium section=Lorifolia species=longifolium
+overall: 0.00%
+
+section=Phragmipedium
+overall: 39.17%
+genus=Phragmipedium section=Phragmipedium
+overall: 0.00%
+
+species=warscewiczianum
+overall: 62.50%
+genus=Phragmipedium section=Phragmipedium species=warscewiczianum
+overall: 0.00%
+
+species=ritchteri
+overall: 70.83%
+genus=Phragmipedium section=Phragmipedium species=ritchteri
+overall: 0.00%
+
+genus=Mexipedium
+overall: 0.00%
+
+section=Mexipedium
+overall: 100.00%
+genus=Mexipedium section=Mexipedium
+overall: 0.00%
+
+species=xerophyticum
+overall: 100.00%
+genus=Mexipedium section=Mexipedium species=xerophyticum
+overall: 0.00%
+
