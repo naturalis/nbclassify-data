@@ -18,6 +18,10 @@ images/
     database), and can (along with the phenotype cache) be used to run
     ``nbc-trainer validate`` to perform the cross-validation analyses.
 
+orchid.ann/
+    Directory containing a hierarchy of artificial neural networks trained on
+    the collection of slipper orchid images from our Flickr account.
+
 output/
     Contains the cross-validation results. There are two subdirectories: ``k4*``
     and ``k10*`` contain the results for 4-fold and 10-fold cross-validation,
