@@ -1,6 +1,8 @@
 Supplementary data
 ------------------
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.31904.svg)](http://dx.doi.org/10.5281/zenodo.31904)
+
 This repository contains supplementary data for the manuscript "OrchID: a
 Generalized Framework for Taxonomic Classification of Images Using Evolved
 Artificial Neural Networks".
