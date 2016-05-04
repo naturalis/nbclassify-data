@@ -1,0 +1,130 @@
+---
+title: "Version 1.0 butterfly script"
+author: "Wim"
+date: "4 mei 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##R Studio and R
+
+R version 3.2.3 (2015-12-10) -- "Wooden Christmas-Tree"
+Copyright (C) 2015 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+##actual begin here
+````{r load data}
+#setwd("~/img-classify-all/nbclassify-data/archive-butterflies") #change as necessary
+#import data from server here!
+#https://github.com/naturalis/nbclassify-data/raw/0a7294547d7009bb6b4ecdff0aae81f33fde2d4d/archive-butterflies/BagOfWords.tsv
+tsv.data <- read.delim("BagOfWords500.tsv")
+attach(tsv.data)
+#this file requires the following packages: Corrgram, Hmisc and ggplot2. Be sure to install them before working with this file.
+````
+##Check for errors in loading data
+
+````{r pre-work check, echo=TRUE}
+#check if ID is Factor, everything else is numerical
+str(tsv.data) 
+tsv.data$ID<-factor(tsv.data$ID) # ID will probably be a numerical value, use this to turn it into a factor.
+#head shows the first 6 datapoints of every features (in this case, the first six individuals for every feature)
+head(tsv.data)
+````
+
+##Variety check
+````{r Var check}
+#again to big, but I cut it up into pieces. Checking the first ~30 datapoints should be sufficient.
+summary(tsv.data[3:10,3:10])
+summary(tsv.data[11:20, 11:20])
+summary(tsv.data[21:30,21:30])
+bartlett.test(tsv.data[3:502]) #check for variances, skipping first two (because they're factors).
+#I am going to scale because mean differ greatly in magnitude. same for variance.  
+````
+##importance of components check
+````{r mv.dim, echo=TRUE}
+MV.Dim <- prcomp(tsv.data[,-1:-2], loadings=TRUE, scale=TRUE, scores=TRUE, cor=TRUE) #creating pca dataset
+summary(MV.Dim) #importance of components of PCA.  the first x PCA's are 75% of all variance. Here it's the first 64.
+screeplot(MV.Dim)
+````
+
+##What are the best PCs? 
+````{r What are the PCAs?}
+#loadings(MV.Dim[1:10],cutoff=FALSE)
+MV.Dim$rotation[,1:64] #check here what are the most important components for the different principle components. Gonna have to find a way to make this more readable. This is essientially what we want though. Afterwards check what the most important features are and check below for correlations.
+
+````
+##correlation between features
+By far the largest part of this file, and second-most important. If you want to skip it in the knit file, change include to FALSE
+````{r cor, echo=TRUE, include=TRUE}
+# dataset to big, have to think about making this properly readable.
+mcor <- cor(tsv.data[,-1:-2], method = c("spearman")) #creates a correlation-matrix and removes the first two factorial values.
+# mcor shows data-matrix of correlations between features. if the correlation is high (x>0.9), check p values below. If those are significant (x<0.05) one of those two might be superfluous.
+library(Hmisc) #Be sure to have Hmisc installed
+#rcorr (below) does the same but mcor shows more decimals.
+tsv.matrix<-as.matrix(tsv.data)
+rcorr(as.matrix(tsv.matrix[,3:502]), type=c("spearman")) #shows data-matrix of correlations between features (mcor) AND checks for p-value of correlations. if x<0.05, check if the correlation is high. If yes, you might wanna remove one of the two values.
+
+library(corrgram) #Be sure to have corrgram installed first
+corrgram(tsv.data[,3:22], lower.panel = panel.ellipse,upper.panel = panel.conf,diag.panel = panel.density, cor.method = "spearman" )
+#corrgram shows correlations between different features. Features that show high correlation between each other can have 1/2 deleted. 
+##BE SURE TO ONLY DO CORRGRAM IN LOW QUANTITIES [1:20]
+#summary(tsv.data)
+pairs(tsv.data[,3:10], main= "butterfly features") #another way to show correlations. stick to corrgram, it's probably better.
+````
+##Plotting data
+Plotting data could be possible, but it's messy because of the huge amount of features. Here are some useful plot-codes anyways, if you want this to show up in the KNITR file just change include to TRUE
+````{r plotting, include=FALSE, echo=FALSE}
+#par(mfrow=c(1,1)) #subsequent figures will be drawn in an x by y array
+#pairs(MV.Dim$x[, 1:9], pch = 21, col=ID) #compares relationships between PC's. 9 maximum.
+#plot(MV.Dim$x[, 1], MV.Dim$x[, 2], xlab = "Comp.1", ylab = "Comp.2", cex = SHAPE.1) #compares relationships between a PC and a component of the PC. Replace MV.Dim$x with whatever PC you wanna compare, and cex= with whatever component you wanna examine.
+#abline(h = 0)
+#abline(v = 0) #adds 0 axis for previous plot
+#text(MV.Dim$x[, 1], MV.Dim$x[, 2], as.character(ID), cex = 0.6, pos = 4, col = "blue") #adds species to datapoints. VERY MESSY.
+#biplot(MV.Dim, col=c("green","blue")) #shows howmuch each value contributes to the PCA. 
+
+#library(ggplot2)
+#comp.data<-data.frame(MV.Dim$x, ID)
+
+#p <- ggplot(comp.data, aes(PC1, PC2, label=ID))
+#p + geom_text(aes(size=SHAPE.1, colour=SHAPE.2))+ggtitle("First two components and shapes") + geom_hline(yintercept=0)+geom_vline(xintercept=0) #geeft een ggplot van twee features voor twee pc's, met als label waar elke soort valt.
+#p + geom_point(aes(colour = SHAPE.1, size=SHAPE.2))+ #deze doet hetzelfde maar dan met puntjes i.p.v. namen
+#   ggtitle("First two components and shapes")+
+#   xlab("First component") +ylab("Second component")
+````
+
