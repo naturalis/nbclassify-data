@@ -11,8 +11,8 @@ experiment:
 data:
   file: BagOfWords500.tsv # input data as TSV, location relative to CWD
   fraction: 0.50 # amount of data to use for training
-  dependent: [ C1, C2, C3, C4, C5, C6 ] # classification columns
-  ignore: [ image ] # uninformative columns to ignore, e.g. unique record identifiers
+  dependent: [ family, subfamily, tribus, genus, species, sex ] # classification columns
+  ignore: [ ID, Title ] # uninformative columns to ignore, e.g. unique record identifiers
 initialize: 
   individual_count: 5 # number of individuals in population
   chromosome_count: 1 # number of non-homologous chromosomes (i.e. n for diploid org)
