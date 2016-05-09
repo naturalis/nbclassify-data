@@ -1,31 +1,6 @@
 ---
 # This is an example configurations file for trainer.py and classify.py.
 
-# The directory hierarchy describes how images are organized on the local
-# hard drive. Each item in the list corresponds to a rank name in the database.
-# The directory name will be stored as the taxonomic name for that rank.
-# If the directory name is "None", that rank will not be saved in the database.
-# Directory levels can be ignored by setting the corresponding rank in the
-# directory hierarchy to "__ignore__".
-directory_hierarchy:
-    - family
-    - subfamily
-    - tribus
-    - genus
-    - species
-
-# Describe training data format.
-data: &data
-    # Prefix of classification columns. When generating training data, this
-    # prefix is extended with a number.
-    dependent_prefix: "OUT:"
-
-    # Sets how the extracted features should be normalized. Set this according
-    # to the activation functions used for the neurons during training.
-    normalize:
-        # Scale features to lie between a given minimum and maximum value.
-        min_max: [0, 1]
-
 # Parameters for training artificial neural networks.
 ann: &ann
     # 'ordinary' or 'cascade' training.
@@ -85,23 +60,3 @@ ann_genus: &ann_genus
     neurons_between_reports: 1
     cascade_activation_steepnesses: [ 0.25, 0.50, 0.75, 1.00 ]
     cascade_num_candidate_groups: 2
-
-# Configurations for classification.
-classification:
-    # Simplified query for filtering photos with corresponding classification
-    # from the database.
-    filter:
-        where:
-            genus: Cypripedium
-            section: Arietinum
-        class:
-            species
-
-    # Define the classification hierarchy from top to bottom.
-    hierarchy:
-        - name: genus
-          ann: *ann_genus
-          train_file: test.tsv
-          test_file: test.tsv
-          ann_file: test.ann
-          max_error: 0.01
