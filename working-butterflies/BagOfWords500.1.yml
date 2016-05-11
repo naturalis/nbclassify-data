@@ -1,7 +1,7 @@
 ---
 verbosity: 3 # logging level, 0..4 => FATAL..DEBUG
 formatter: simple # logging formatter, simple, medium or verbose
-outfile: BagOfWords500.ann # best ANN, location relative to CWD
+outfile: BagOfWords500.1.ann # best ANN, location relative to CWD
 experiment:
   crossover_rate: 0.3 # p of exchange between chromosomes
   mutation_rate: 0.1 # p of a trait mutating
