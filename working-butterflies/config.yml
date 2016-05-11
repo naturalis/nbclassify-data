@@ -18,7 +18,7 @@ directory_hierarchy:
 data: &data
     # Prefix of classification columns. When generating training data, this
     # prefix is extended with a number.
-    dependent_prefix: "cl"
+    dependent_prefix: "out_"
 
     # Sets how the extracted features should be normalized. Set this according
     # to the activation functions used for the neurons during training.
