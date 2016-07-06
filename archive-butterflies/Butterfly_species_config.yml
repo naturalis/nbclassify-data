@@ -31,14 +31,11 @@ preprocess: &preprocess
     maximum_perimeter: None
 
     # Perform color enhancement on images.
-    color_enhancement:
-        # A hue preserving linear transformation with maximum possible contrast.
-        None
+    color_enhancement: None
 
     # Perform segmentation on the image, where the background is removed.
     segmentation:
-        grabcut:
-            None
+        grabcut: None
 
     # Crop the image to only the ROI.
     # Only roi_pix will be used if both roi_pix and roi_frac are given.
@@ -126,8 +123,7 @@ classification:
     # Simplified query for filtering photos with corresponding classification
     # from the database.
     filter:
-        class:
-            species
+        class: species
 
     # Define the classification hierarchy from top to bottom.
     hierarchy:
