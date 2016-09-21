@@ -12,3 +12,5 @@ Each analysis has 4 folders:
   - genus (class) and species (class) contain the results of the ann
   - Match shows weather of not there is a complete match between expected and classification results.
   - section can be ignored, as this was not used in these analyses
+
+The Results.xlsx contains a summary of the results of all analyses, including graphs and tables with outcomes per species/genus/analysis
