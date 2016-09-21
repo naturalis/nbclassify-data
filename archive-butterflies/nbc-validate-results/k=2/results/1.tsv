@@ -1,0 +1,359 @@
+ID	genus (exp.)	section (exp.)	species (exp.)	genus (class.)	section (class.)	species (class.)	Match
+4	Troides		amphrysus-male	Troides			-
+5	Troides		amphrysus-male	Troides			-
+17	Troides		helena			helena	-
+18	Troides		helena	Troides		helena	+
+19	Troides		helena	Graphium		helena	-
+20	Troides		helena			helena	-
+21	Troides		helena			helena	-
+22	Troides		helena			helena	-
+23	Troides		helena			helena	-
+24	Troides		helena	Troides		helena	+
+25	Troides		helena			helena	-
+26	Troides		helena	Troides		helena	+
+27	Troides		helena			helena	-
+34	Lamproptera						-
+35	Lamproptera						-
+36	Lamproptera						-
+37	Lamproptera						-
+38	Lamproptera						-
+39	Lamproptera						-
+44	Vindula			Graphium			-
+45	Vindula						-
+46	Vindula			Vindula			+
+47	Vindula						-
+51	Euploea		mulciber-female				-
+52	Euploea		mulciber-female			mulciber-female	-
+55	Euploea		mulciber-male	Euploea			-
+56	Euploea		mulciber-male	Euploea			-
+61	Euploea		rhadamanthus	Parantica			-
+62	Euploea		rhadamanthus	Euploea		rhadamanthus	+
+63	Euploea		rhadamanthus			rhadamanthus	-
+89	Graphium		adonarensis	Graphium		adonarensis	+
+90	Graphium		adonarensis	Graphium		adonarensis	+
+91	Graphium		adonarensis				-
+92	Graphium		adonarensis	Graphium			-
+93	Graphium		adonarensis	Graphium		evemon, adonarensis	+
+94	Graphium		adonarensis	Graphium		adonarensis	+
+95	Graphium		adonarensis	Graphium		adonarensis	+
+96	Graphium		adonarensis	Graphium		adonarensis	+
+97	Graphium		adonarensis	Graphium		adonarensis	+
+98	Graphium		adonarensis	Graphium			-
+99	Graphium		adonarensis	Graphium		adonarensis	+
+100	Graphium		adonarensis			adonarensis	-
+101	Graphium		adonarensis			adonarensis	-
+102	Graphium		adonarensis	Graphium			-
+103	Graphium		adonarensis	Graphium			-
+104	Graphium		adonarensis			adonarensis	-
+105	Graphium		adonarensis			adonarensis	-
+106	Graphium		adonarensis	Graphium		adonarensis	+
+107	Graphium		adonarensis	Graphium		adonarensis	+
+108	Graphium		adonarensis	Graphium		adonarensis	+
+109	Graphium		adonarensis	Graphium		adonarensis	+
+110	Graphium		adonarensis	Graphium		adonarensis	+
+111	Graphium		adonarensis			adonarensis	-
+112	Graphium		adonarensis	Graphium			-
+113	Graphium		adonarensis			adonarensis	-
+119	Graphium		doson	Graphium			-
+120	Graphium		doson	Graphium			-
+121	Graphium		doson	Graphium			-
+122	Graphium		doson	Graphium			-
+138	Graphium		agamemnon	Graphium			-
+139	Graphium		agamemnon	Graphium			-
+140	Graphium		agamemnon	Graphium			-
+141	Graphium		agamemnon	Graphium			-
+142	Graphium		agamemnon	Graphium		agamemnon	+
+143	Graphium		agamemnon	Graphium			-
+144	Graphium		agamemnon	Graphium		agamemnon, adonarensis	+
+145	Graphium		agamemnon	Graphium		agamemnon	+
+146	Graphium		agamemnon	Graphium		agamemnon	+
+147	Graphium		agamemnon	Graphium			-
+148	Graphium		agamemnon	Graphium		agamemnon	+
+149	Graphium		agamemnon				-
+150	Graphium		agamemnon	Graphium			-
+151	Graphium		agamemnon	Graphium			-
+174	Graphium		evemon	Graphium		evemon	+
+175	Graphium		evemon	Graphium		evemon	+
+176	Graphium		evemon	Graphium		evemon	+
+177	Graphium		evemon	Graphium		evemon	+
+178	Graphium		evemon			evemon	-
+179	Graphium		evemon	Graphium			-
+180	Graphium		evemon	Graphium		evemon	+
+181	Graphium		evemon	Graphium		evemon	+
+182	Graphium		evemon	Graphium		evemon	+
+183	Graphium		evemon	Graphium		evemon	+
+184	Graphium		evemon	Graphium		doson, evemon	+
+185	Graphium		evemon	Graphium		evemon	+
+186	Graphium		evemon	Graphium		doson	-
+187	Graphium		evemon	Graphium			-
+188	Graphium		evemon	Graphium		evemon	+
+189	Graphium		evemon	Graphium		evemon	+
+190	Graphium		evemon	Graphium			-
+191	Graphium		evemon	Graphium			-
+192	Graphium		evemon	Graphium		evemon	+
+193	Graphium		evemon	Graphium			-
+194	Graphium		evemon	Graphium		evemon	+
+198	Graphium		eurypylus	Graphium			-
+199	Graphium		eurypylus	Graphium			-
+200	Graphium		eurypylus	Graphium			-
+226	Graphium		macareus	Graphium		macareus	+
+227	Graphium		macareus	Graphium		macareus	+
+228	Graphium		macareus	Graphium		macareus	+
+229	Graphium		macareus	Graphium		macareus	+
+230	Graphium		macareus			macareus	-
+231	Graphium		macareus	Graphium		macareus	+
+232	Graphium		macareus			macareus	-
+233	Graphium		macareus			macareus	-
+234	Graphium		macareus			macareus	-
+235	Graphium		macareus	Graphium		macareus	+
+236	Graphium		macareus	Graphium		macareus	+
+237	Graphium		macareus	Graphium		macareus	+
+238	Graphium		macareus			macareus	-
+239	Graphium		macareus	Graphium		macareus	+
+240	Graphium		macareus				-
+241	Graphium		macareus			macareus	-
+242	Graphium		macareus	Graphium		macareus	+
+243	Graphium		macareus	Graphium		macareus	+
+244	Graphium		macareus	Graphium		macareus	+
+245	Graphium		macareus			macareus	-
+246	Graphium		macareus	Graphium		macareus	+
+247	Graphium		macareus	Graphium		macareus	+
+248	Graphium		macareus	Graphium		macareus	+
+249	Graphium		macareus	Graphium		macareus	+
+250	Graphium		macareus			macareus	-
+260	Graphium		bathycles	Graphium		doson, bathycles	+
+261	Graphium		bathycles	Graphium			-
+262	Graphium		bathycles	Graphium		evemon	-
+263	Graphium		bathycles				-
+264	Graphium		bathycles	Graphium		bathycles	+
+265	Graphium		bathycles	Graphium			-
+266	Graphium		bathycles	Graphium			-
+267	Graphium		bathycles	Graphium			-
+276	Graphium		antiphates			antiphates	-
+277	Graphium		antiphates			antiphates	-
+278	Graphium		antiphates			antiphates	-
+279	Graphium		antiphates			antiphates	-
+280	Graphium		antiphates			antiphates	-
+281	Graphium		antiphates				-
+282	Graphium		antiphates	Graphium		antiphates	+
+283	Graphium		antiphates			antiphates	-
+289	Pachliopta						-
+290	Pachliopta			Pachliopta			+
+291	Pachliopta						-
+292	Pachliopta						-
+297	Danaus		genutia			genutia	-
+298	Danaus		genutia				-
+299	Danaus		genutia			genutia	-
+314	Danaus		chrysippus	Danaus		chrysippus	+
+315	Danaus		chrysippus			chrysippus	-
+316	Danaus		chrysippus	Danaus		chrysippus	+
+317	Danaus		chrysippus	Danaus		chrysippus	+
+318	Danaus		chrysippus			chrysippus	-
+319	Danaus		chrysippus			chrysippus	-
+320	Danaus		chrysippus			chrysippus	-
+321	Danaus		chrysippus	Danaus		chrysippus	+
+322	Danaus		chrysippus	Danaus		chrysippus	+
+323	Danaus		chrysippus			chrysippus	-
+324	Danaus		chrysippus			chrysippus	-
+325	Danaus		chrysippus	Danaus		chrysippus	+
+326	Danaus		chrysippus			chrysippus	-
+327	Danaus		chrysippus	Danaus		chrysippus	+
+333	Parantica						-
+334	Parantica						-
+335	Parantica						-
+336	Parantica			Parantica			+
+355	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+356	Atrophaneura		coon-male			coon-male	-
+357	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+358	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+359	Atrophaneura		coon-male			coon-male	-
+360	Atrophaneura		coon-male			coon-male	-
+361	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+362	Atrophaneura		coon-male	Atrophaneura			-
+363	Atrophaneura		coon-male			coon-male	-
+364	Atrophaneura		coon-male				-
+365	Atrophaneura		coon-male			coon-male	-
+366	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+367	Atrophaneura		coon-male			coon-male	-
+368	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+369	Atrophaneura		coon-male				-
+370	Atrophaneura		coon-male			coon-male	-
+371	Atrophaneura		coon-male				-
+375	Atrophaneura		nox			nox	-
+376	Atrophaneura		nox			nox	-
+382	Atrophaneura		coon-female			coon-male	-
+383	Atrophaneura		coon-female				-
+384	Atrophaneura		coon-female			coon-male	-
+385	Atrophaneura		coon-female				-
+411	Papilio		paris	Papilio		paris	+
+412	Papilio		paris	Papilio		paris	+
+413	Papilio		paris	Papilio		paris	+
+414	Papilio		paris	Papilio		paris	+
+415	Papilio		paris	Papilio		paris	+
+416	Papilio		paris	Papilio		paris	+
+417	Papilio		paris	Papilio		paris	+
+418	Papilio		paris	Papilio		paris	+
+419	Papilio		paris	Papilio		paris	+
+420	Papilio		paris	Papilio		paris	+
+421	Papilio		paris	Papilio		paris	+
+422	Papilio		paris	Papilio		paris	+
+423	Papilio		paris	Papilio			-
+424	Papilio		paris	Papilio		paris	+
+425	Papilio		paris	Papilio		paris	+
+426	Papilio		paris	Papilio		paris	+
+427	Papilio		paris	Papilio		paris	+
+428	Papilio		paris	Papilio		paris	+
+429	Papilio		paris	Papilio		paris	+
+430	Papilio		paris	Papilio		paris	+
+431	Papilio		paris	Papilio		paris	+
+432	Papilio		paris	Papilio		paris	+
+433	Papilio		paris	Papilio		paris	+
+434	Papilio		paris	Papilio		paris	+
+435	Papilio		paris	Papilio		paris	+
+461	Papilio		memnon-male	Papilio		memnon-male	+
+462	Papilio		memnon-male	Papilio			-
+463	Papilio		memnon-male	Papilio		memnon-male	+
+464	Papilio		memnon-male	Papilio		memnon-male	+
+465	Papilio		memnon-male	Papilio		memnon-male	+
+466	Papilio		memnon-male	Papilio			-
+467	Papilio		memnon-male	Papilio		memnon-male	+
+468	Papilio		memnon-male	Papilio		memnon-male	+
+469	Papilio		memnon-male	Papilio		memnon-male	+
+470	Papilio		memnon-male	Papilio		memnon-male	+
+471	Papilio		memnon-male	Papilio		memnon-male	+
+472	Papilio		memnon-male	Papilio		memnon-male	+
+473	Papilio		memnon-male	Papilio		memnon-male	+
+474	Papilio		memnon-male	Papilio		memnon-male	+
+475	Papilio		memnon-male	Papilio			-
+476	Papilio		memnon-male	Papilio		memnon-male	+
+477	Papilio		memnon-male	Papilio		memnon-male	+
+478	Papilio		memnon-male	Papilio		memnon-male	+
+479	Papilio		memnon-male	Papilio			-
+480	Papilio		memnon-male	Papilio		memnon-male	+
+481	Papilio		memnon-male	Papilio		memnon-male	+
+482	Papilio		memnon-male	Papilio		memnon-male	+
+483	Papilio		memnon-male	Papilio			-
+484	Papilio		memnon-male	Papilio		memnon-male	+
+485	Papilio		memnon-male	Papilio		memnon-male	+
+511	Papilio		polytes-male	Papilio		polytes-male	+
+512	Papilio		polytes-male	Papilio		polytes-male	+
+513	Papilio		polytes-male	Papilio			-
+514	Papilio		polytes-male	Papilio		polytes-male	+
+515	Papilio		polytes-male	Papilio		polytes-male	+
+516	Papilio		polytes-male	Pachliopta, Papilio		polytes-male	+
+517	Papilio		polytes-male	Papilio			-
+518	Papilio		polytes-male			polytes-male	-
+519	Papilio		polytes-male	Papilio		polytes-male	+
+520	Papilio		polytes-male	Papilio		polytes-male	+
+521	Papilio		polytes-male	Papilio		polytes-male	+
+522	Papilio		polytes-male	Papilio		polytes-male	+
+523	Papilio		polytes-male	Papilio		polytes-male	+
+524	Papilio		polytes-male	Papilio		polytes-male	+
+525	Papilio		polytes-male			polytes-male	-
+526	Papilio		polytes-male	Papilio		helenus	-
+527	Papilio		polytes-male	Papilio		polytes-male	+
+528	Papilio		polytes-male	Papilio		polytes-male	+
+529	Papilio		polytes-male	Papilio		polytes-male	+
+530	Papilio		polytes-male	Papilio			-
+531	Papilio		polytes-male	Papilio			-
+532	Papilio		polytes-male	Papilio		polytes-male	+
+533	Papilio		polytes-male	Papilio		polytes-male	+
+534	Papilio		polytes-male	Papilio		polytes-male	+
+535	Papilio		polytes-male	Papilio		polytes-male	+
+542	Papilio		nephelus	Papilio		polytes-male, polytes-female	-
+543	Papilio		nephelus			polytes-male	-
+544	Papilio		nephelus	Papilio			-
+545	Papilio		nephelus	Papilio			-
+546	Papilio		nephelus			nephelus	-
+561	Papilio		polytes-female	Papilio			-
+562	Papilio		polytes-female			polytes-female	-
+563	Papilio		polytes-female	Papilio		polytes-male	-
+564	Papilio		polytes-female	Papilio		polytes-male	-
+565	Papilio		polytes-female	Papilio			-
+566	Papilio		polytes-female			polytes-female, polytes-male	-
+567	Papilio		polytes-female	Papilio			-
+568	Papilio		polytes-female	Papilio			-
+569	Papilio		polytes-female			polytes-male	-
+570	Papilio		polytes-female				-
+571	Papilio		polytes-female	Papilio			-
+572	Papilio		polytes-female			polytes-female	-
+573	Papilio		polytes-female			polytes-female	-
+587	Papilio		memnon-female	Papilio		memnon-female	+
+588	Papilio		memnon-female	Papilio		memnon-female	+
+589	Papilio		memnon-female			memnon-female	-
+590	Papilio		memnon-female			memnon-female	-
+591	Papilio		memnon-female	Papilio		memnon-female	+
+592	Papilio		memnon-female	Papilio		memnon-female	+
+593	Papilio		memnon-female	Papilio		memnon-female	+
+594	Papilio		memnon-female	Papilio			-
+595	Papilio		memnon-female			memnon-female	-
+596	Papilio		memnon-female	Papilio			-
+597	Papilio		memnon-female	Papilio		memnon-female	+
+598	Papilio		memnon-female	Papilio		memnon-female	+
+599	Papilio		memnon-female	Papilio		memnon-female	+
+605	Papilio		karna	Papilio			-
+606	Papilio		karna	Papilio		karna	+
+607	Papilio		karna	Papilio		helenus	-
+608	Papilio		karna	Papilio			-
+634	Papilio		helenus	Papilio		helenus	+
+635	Papilio		helenus	Papilio		helenus	+
+636	Papilio		helenus	Papilio		helenus	+
+637	Papilio		helenus	Papilio			-
+638	Papilio		helenus	Papilio			-
+639	Papilio		helenus	Papilio		helenus	+
+640	Papilio		helenus	Papilio		helenus	+
+641	Papilio		helenus	Papilio		helenus	+
+642	Papilio		helenus	Papilio		helenus	+
+643	Papilio		helenus	Papilio		helenus	+
+644	Papilio		helenus	Papilio		helenus	+
+645	Papilio		helenus	Papilio		helenus	+
+646	Papilio		helenus	Papilio		helenus	+
+647	Papilio		helenus	Papilio		helenus	+
+648	Papilio		helenus	Papilio		helenus	+
+649	Papilio		helenus	Papilio			-
+650	Papilio		helenus	Papilio		helenus	+
+651	Papilio		helenus	Papilio		helenus	+
+652	Papilio		helenus	Papilio		helenus	+
+653	Papilio		helenus	Papilio		helenus	+
+654	Papilio		helenus	Papilio		helenus	+
+655	Papilio		helenus	Papilio		helenus	+
+656	Papilio		helenus	Papilio		helenus	+
+657	Papilio		helenus	Papilio		helenus	+
+658	Papilio		helenus	Papilio		helenus	+
+671	Papilio		peranthus	Papilio		peranthus	+
+672	Papilio		peranthus	Papilio		peranthus	+
+673	Papilio		peranthus	Papilio			-
+674	Papilio		peranthus	Papilio		peranthus	+
+675	Papilio		peranthus			demolion	-
+676	Papilio		peranthus	Papilio		peranthus	+
+677	Papilio		peranthus	Papilio		peranthus	+
+678	Papilio		peranthus			demolion	-
+679	Papilio		peranthus	Papilio			-
+680	Papilio		peranthus	Papilio		peranthus	+
+681	Papilio		peranthus	Papilio		peranthus	+
+682	Papilio		peranthus			peranthus	-
+708	Papilio		demolion	Papilio		demolion	+
+709	Papilio		demolion	Papilio		demolion	+
+710	Papilio		demolion	Papilio			-
+711	Papilio		demolion	Papilio		demolion	+
+712	Papilio		demolion	Papilio			-
+713	Papilio		demolion	Papilio		demolion	+
+714	Papilio		demolion	Papilio		demolion	+
+715	Papilio		demolion	Papilio		demolion	+
+716	Papilio		demolion	Papilio		demolion	+
+717	Papilio		demolion	Papilio		demolion	+
+718	Papilio		demolion	Papilio		demolion	+
+719	Papilio		demolion	Papilio		demolion	+
+720	Papilio		demolion	Papilio		demolion	+
+721	Papilio		demolion	Papilio		demolion	+
+722	Papilio		demolion	Papilio		demolion	+
+723	Papilio		demolion	Papilio		demolion	+
+724	Papilio		demolion	Papilio		demolion	+
+725	Papilio		demolion	Papilio		demolion	+
+726	Papilio		demolion	Papilio			-
+727	Papilio		demolion	Papilio		demolion	+
+728	Papilio		demolion	Papilio		demolion	+
+729	Papilio		demolion	Papilio		demolion	+
+730	Papilio		demolion	Papilio		demolion	+
+731	Papilio		demolion	Papilio		demolion	+
+732	Papilio		demolion	Papilio		demolion	+
