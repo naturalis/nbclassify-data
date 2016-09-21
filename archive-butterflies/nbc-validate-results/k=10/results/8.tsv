@@ -1,0 +1,60 @@
+ID	genus (exp.)	section (exp.)	species (exp.)	genus (class.)	section (class.)	species (class.)	Match
+649	Papilio		helenus	Papilio			-
+266	Graphium		bathycles				-
+651	Papilio		helenus	Papilio		helenus	+
+652	Papilio		helenus	Papilio		helenus	+
+653	Papilio		helenus	Papilio		helenus	+
+526	Papilio		polytes-male	Papilio			-
+527	Papilio		polytes-male	Papilio		polytes-male	+
+528	Papilio		polytes-male	Papilio		polytes-male	+
+529	Papilio		polytes-male	Papilio		polytes-male	+
+530	Papilio		polytes-male	Papilio		polytes-male	+
+147	Graphium		agamemnon	Graphium		agamemnon	+
+148	Graphium		agamemnon	Graphium		agamemnon	+
+149	Graphium		agamemnon	Graphium			-
+24	Troides		helena			helena	-
+25	Troides		helena	Troides		helena	+
+282	Graphium		antiphates	Graphium			-
+545	Papilio		nephelus	Papilio			-
+38	Lamproptera						-
+679	Papilio		peranthus	Papilio		peranthus	+
+680	Papilio		peranthus	Papilio		peranthus	+
+426	Papilio		paris	Papilio		paris	+
+427	Papilio		paris	Papilio			-
+428	Papilio		paris	Papilio		paris	+
+429	Papilio		paris	Papilio		paris	+
+430	Papilio		paris	Papilio		paris	+
+570	Papilio		polytes-female	Papilio		polytes-female	+
+187	Graphium		evemon	Graphium			-
+188	Graphium		evemon	Graphium			-
+189	Graphium		evemon	Graphium		evemon	+
+190	Graphium		evemon	Graphium			-
+324	Danaus		chrysippus	Danaus		chrysippus	+
+325	Danaus		chrysippus	Danaus		chrysippus	+
+650	Papilio		helenus	Papilio		helenus	+
+723	Papilio		demolion	Papilio		demolion	+
+596	Papilio		memnon-female	Papilio		memnon-female	+
+597	Papilio		memnon-female	Papilio		memnon-female	+
+726	Papilio		demolion	Papilio			-
+727	Papilio		demolion	Papilio		demolion	+
+476	Papilio		memnon-male	Papilio		memnon-male	+
+477	Papilio		memnon-male	Papilio		memnon-male	+
+478	Papilio		memnon-male	Papilio		memnon-male	+
+479	Papilio		memnon-male	Papilio		memnon-male	+
+480	Papilio		memnon-male	Papilio		memnon-male	+
+571	Papilio		polytes-female	Papilio		polytes-female	+
+104	Graphium		adonarensis	Graphium		adonarensis	+
+105	Graphium		adonarensis			adonarensis	-
+106	Graphium		adonarensis	Graphium		adonarensis	+
+107	Graphium		adonarensis	Graphium			-
+108	Graphium		adonarensis	Graphium		adonarensis	+
+366	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+367	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+368	Atrophaneura		coon-male	Atrophaneura		coon-male	+
+241	Graphium		macareus				-
+242	Graphium		macareus			agamemnon, macareus	-
+243	Graphium		macareus	Graphium		macareus	+
+244	Graphium		macareus	Graphium		macareus	+
+245	Graphium		macareus	Graphium		macareus	+
+724	Papilio		demolion	Papilio		demolion	+
+725	Papilio		demolion	Papilio		demolion	+
